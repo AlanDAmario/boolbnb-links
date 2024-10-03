@@ -22,6 +22,6 @@
 
 ## Tecnologie Utilizzate
 
-- **Frontend**: HTML, CSS, JavaScript, Vue.js, Bootstrap
+- **Frontend**: HTML, CSS, JavaScript, Vue.js, Tailwind
 - **Backend**: PHP, Laravel
 - **Database**: MySQL
